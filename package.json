@@ -1,0 +1,28 @@
+{
+  "name": "billennium_javascript_by_bartuszak",
+  "version": "1.0.0",
+  "description": "Javascript Algorithms + Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BartusZak/billennium-javascript-algorithms-unit-tests.git"
+  },
+  "keywords": [
+    "billennium"
+  ],
+  "author": "Bartłomiej Płoszyński (BartusZak)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BartusZak/billennium-javascript-algorithms-unit-tests/issues"
+  },
+  "homepage": "https://github.com/BartusZak/billennium-javascript-algorithms-unit-tests#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "dependencies": {
+    "decimal": "0.0.2"
+  }
+}
